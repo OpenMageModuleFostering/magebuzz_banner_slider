@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Banner Slider creates professional image sliders for advertising effectiveness via banners.
