@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/magebuzz_banner_slider",
+    "name": "OpenMageModuleFostering\/magebuzz_banner_slider",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Banner Slider creates professional image sliders for advertising effectiveness via banners.",
     "authors": [
-    {
-        "name": "Magebuzz",
-        "email": "magebuzz@gmail.com"
-    }
-],
+        {
+            "name": "Magebuzz",
+            "email": "magebuzz@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
